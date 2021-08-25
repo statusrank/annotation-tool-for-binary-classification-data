@@ -14,7 +14,7 @@ PyQt5
 ## Install
 
 ```
-git clone https://github.com/7578lgg/explosion_label.git
+git clone https://github.com/statusrank/annotation-tool-for-binary-classification-data
 ```
 
 ```
