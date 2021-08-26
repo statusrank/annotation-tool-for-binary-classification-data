@@ -1,6 +1,8 @@
 # Annotation tool for binary classification data
-Note
+## Note
+
 We add a new button in the tool, that is, "-1" means the annotator is not sure the label, or the image is unclear to convey the specific label.
+In addition, i fix some bugs.
 ## Environment
 
 ```
